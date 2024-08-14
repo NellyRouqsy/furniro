@@ -9,8 +9,6 @@
     background-repeat: no-repeat;
     width: 100%;
     height: 1007.93px;
-    gap: 0px;
-    opacity: 0px;
 }
 .header{
     display: flex;
@@ -47,9 +45,7 @@
     width: 520px;
     height: 390px;
     left: 739px;
-    gap: 0px;
-    border-radius: 10px 0px 0px 0px;
-    opacity: 0px;
+    border-radius: 10px;
     margin-right: 20px;
     background-color: #FFF3E3;
     position: relative;
@@ -147,12 +143,11 @@
     height: 48px;
     top: 2646px;
     left: 598px;
-    border: 1px 1px 1px 1px;
+    border-radius: 1px;
     background-color: #FFFFFF;
     color: #B88E2F;
     font-size: 16px;
     font-weight: 600;
-    line-height: 24px;
     text-align: center;
     border-color: #B88E2F;
 }
@@ -170,7 +165,6 @@
     font-size: small;
     margin-left: 20px;
     font-weight: 200;
-    font-family: poppins;
     text-decoration: line-through;
 }
 #div{
